@@ -2,12 +2,12 @@
 # -*- coding: utf-8 -*-
         
         
-        #############################################
-        #    𝕮𝖗𝖊𝖆𝖙𝖔𝖗. 𝑹𝒂𝒇𝒊𝒏 𝑨𝒉𝒎𝒆𝒅                       #                 #
-        #    𝕴𝖓𝖘𝖙𝖆𝖌𝖗𝖆𝖒, 👑RaFiN Chowdhury💫           #
+        ###############################################
+        #    𝕮𝖗𝖊𝖆𝖙𝖔𝖗. 𝑹𝒂𝒇𝒊𝒏 𝑨𝒉𝒎𝒆𝒅                        #                 #
+        #    𝕴𝖓𝖘𝖙𝖆𝖌𝖗𝖆𝖒, 👑RaFiN Chowdhury💫            #
         #    𝖄𝖔𝖚𝖙𝖚𝖇𝖊. 𝐹𝐸𝐸𝐿𝐼𝑁𝐺𝑆 𝐶𝑅𝐸𝐴𝑇𝐼𝑂𝑁              #
-        #    𝕱𝖆𝖈𝖊𝖇𝖔𝖔𝖐. I.FueK.YoUr.MiNd.BnXD           #
-        #    𝕲𝖎𝖙𝖍𝖚𝖇. https://github.com/Shymon-Hasan  #
+        #    𝕱𝖆𝖈𝖊𝖇𝖔𝖔𝖐. I.FueK.YoUr.MiNd.BnXD          #
+        #    𝕲𝖎𝖙𝖍𝖚𝖇. https://github.com/Shymon-Hasan #
         #############################################
 
 
@@ -25,7 +25,7 @@ except ModuleNotFoundError:
 time.sleep(0.5)
 user = raw_input('[💀] Target Username/ID/Email >>?? ')
 time.sleep(0.8)
-wrdlstFileName = raw_input('\n[💀] Wordlist Type SH.txt >> ')
+wrdlstFileName = raw_input('\n[💀] Wordlist Type SH.RAFIN.txt >> ')
 try:
     wordlist = open(wrdlstFileName, 'r')
 except FileNotFoundError:
