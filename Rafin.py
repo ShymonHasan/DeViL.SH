@@ -60,7 +60,7 @@ def banner():
 
 banner()
 
-print wd+"         Hack Kore Gf Ar Nudos Dis Vai "
+print wd+"     Hack Kore Gf Ar Nudos Dis Vai "
 print GG+"╭────\033[91m[\033[96m Target ID\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
 print " "
@@ -76,7 +76,7 @@ def pil():
                 if g == 'y' or g == 'Y':
                     os.system('python2 brute.py')
                 elif g == 'n' or g == 'N':
-                    print wd+"Keluar dari program..."
+                    print wd+"Keluar This Page SH..."
                     sys.exit()
                 else:
                     print RR+"Pilih yang bener cuk..."
@@ -90,7 +90,7 @@ def edit_wordlist():
                 os.system('nano '+password_list)
                 pil()
         elif ed == 'n' or ed == 'N':
-                print wd+"Keluar Dari Program..."
+                print wd+"Keluar This Page SH..."
                 sys.exit()
 
         else:
@@ -110,7 +110,7 @@ def main():
         runn_noobs()
         life()
         print " "
-        print RR+" wordlist tidak ada yg cocok..."
+        print RR+" wordlist Check..."
         print " "
 def iqbalz(iqbalz_password):
   try:
@@ -131,7 +131,7 @@ def iqbalz(iqbalz_password):
 	         	print (RR+"#\033[97m ID / Email Target:\033[92m {}").format(email_target)
         	        print (RR+"#\033[97m Password Target:\033[92m {}").format(iqbalz_password)
         	        print " "
-        	        raw_input(WW+"TEKAN ENTER UNTUK KELUAR...")
+        	        raw_input(WW+"SH TARGET HACKED DONE PLEASE KELUAR...")
 			sys.exit(1)
   
   
@@ -164,11 +164,11 @@ def runn_noobs():
      /R
      -S    --
      -J
-    -M     .:       ╭━━━┳╮╱╭╮
-    -R              ┃╭━╮┃┃╱┃┃     --
-    -J     ':       ┃╰━━┫╰━╯┃     --
-     M              ╰━━╮┃╭━╮┃     --
-    .R     .:       ┃╰━╯┃┃╱┃┃     --
+    -M     .:       ╭━━━┳╮╱╭╮     --     .M
+    -R              ┃╭━╮┃┃╱┃┃     --     .R
+    -J     ':       ┃╰━━┫╰━╯┃     --     .S
+     M              ╰━━╮┃╭━╮┃     --     .J
+    .R     .:       ┃╰━╯┃┃╱┃┃     --     .M
     .S              ╰━━━┻╯╱╰╯     --     .s-
      o/     .:`                     --     +o
     .s-     :.                      `:`    -s`
@@ -184,7 +184,7 @@ def runn_noobs():
               `-/+///..````..://+/-`
                   `.-::////::-.` \033[91;1m
 
-                \033[90;1mSub:𝐹𝐸𝐸𝐿𝐼𝑁𝐺𝑆 𝐶𝑅𝐸𝐴𝑇𝐼𝑂𝑁\033[91;1m
+               \033[90;1mSub:𝐹𝐸𝐸𝐿𝐼𝑁𝐺𝑆 𝐶𝑅𝐸𝐴𝑇𝐼𝑂𝑁\033[91;1m
              Powered by:\033[97m ShymonHasan
       """
 
