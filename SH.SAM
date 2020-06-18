@@ -76,7 +76,7 @@ def pil():
                 if g == 'y' or g == 'Y':
                     os.system('python2 brute.py')
                 elif g == 'n' or g == 'N':
-                    print wd+"Keluar dari program..."
+                    print wd+"Keluar Kore Den Id Hacked Done SH..."
                     sys.exit()
                 else:
                     print RR+"Pilih yang bener cuk..."
@@ -90,7 +90,7 @@ def edit_wordlist():
                 os.system('nano '+password_list)
                 pil()
         elif ed == 'n' or ed == 'N':
-                print wd+"Keluar Dari Program..."
+                print wd+"Keluar Kore Den Id Hacked Done SH..."
                 sys.exit()
 
         else:
@@ -163,7 +163,7 @@ def runn_noobs():
     .s-     :.                      `:`    -s`
     .s.     :.                      `:`    -R
     .R      :.       █▀ █░█        `:`    `J
-    .J      :.       ▄█ █▀█        `:`    .s.
+    .J      :.       ▄█ █▀█        `:`    .s
     .s-     --                      .:     -s.
      o/     `-.                    `-.     /o
      -s.     `--`                `.-`     .s-
@@ -175,7 +175,7 @@ def runn_noobs():
               `-/+///..````..://+/-`
                   `.-::////::-.` \033[91;1m
 
-                \033[90;1mDaD OF DeViL\033[91;1m
+                  \033[90;1mDaD OF DeViL\033[91;1m
              Powered by:\033[97m ShymonHasan
       """
 
